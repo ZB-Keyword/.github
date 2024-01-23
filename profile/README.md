@@ -16,8 +16,8 @@
 
 ### 🧑‍🤝‍🧑 팀원
 
-| | | | | ||  
-|--|--|--|--|--|--|  
+| | | | | | | |
+|--|--|--|--|--|--|--|
 |Front-End|Front-End|Back-End|Back-End|Back-End|Back-End|Back-End|
 |[이솔](https://github.com/p-inn)|[이채영](https://github.com/chae-young)|[강경구](https://github.com/kku1031)|[박소은](https://github.com/soeun135)|[박해빈](https://github.com/ParkHaeBeen)|[조현준](https://github.com/Jennny1)|[조형준](https://github.com/JoHyungJun)
 
