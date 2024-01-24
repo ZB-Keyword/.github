@@ -75,6 +75,22 @@
   <img src="https://img.shields.io/badge/springRestDocs-00B67A?style=for-the-badge&logo=springRestDocs&logoColor=white">
 </div>
 
+### Production & Deploy
+<div align=left>
+  <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</div>
+<div align=left>
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+  <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+  <img src="https://img.shields.io/badge/amazonscloudfront-FF9900?style=for-the-badge&logo=amazoncloudfront&logoColor=white">
+</div>
+<div align=left>
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/githubactions-F05032?style=for-the-badge&logo=githubActions&logoColor=white">
+  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+</div
+  
 ---
 
 ### ⚙️ Architecture
