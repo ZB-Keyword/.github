@@ -16,7 +16,8 @@
 
 ### 🧑‍🤝‍🧑 팀원
 
-|| | | | <img src =https://github.com/ZB-Keyword/.github/assets/130157565/9d1a596e-d61b-43f1-a4ab-2885b4095117 width="100" height="100"> | | |
+|| ![IMG_1839](https://github.com/ZB-Keyword/.github/assets/28029685/f580c2a3-80b0-4eb8-b683-c2d66a2534d1)
+| | | <img src =https://github.com/ZB-Keyword/.github/assets/130157565/9d1a596e-d61b-43f1-a4ab-2885b4095117 width="100" height="100"> | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Front-End|Front-End|Back-End|Back-End|Back-End|Back-End|Back-End|
 |[이솔](https://github.com/p-inn)|[이채영](https://github.com/chae-young)|[강경구](https://github.com/kku1031)|[박소은](https://github.com/soeun135)|[박해빈](https://github.com/ParkHaeBeen)|[조현준](https://github.com/Jennny1)|[조형준](https://github.com/JoHyungJun)
