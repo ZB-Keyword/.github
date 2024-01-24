@@ -103,6 +103,13 @@
 ### ⚙️ Architecture
 ![제목 없는 그림 (7)](https://github.com/ZB-Keyword/.github/assets/130157565/72cce4cb-5c67-4ec5-8ef9-7df9b037bc93)
 
+---
+
+### 📃 ERD
+
+---
+
+### 🔍 Api 명세서
 
 
 
