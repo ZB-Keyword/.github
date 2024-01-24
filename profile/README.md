@@ -113,6 +113,11 @@
 ---
 
 ### 🔍 Api 명세서
-
+**[Full api link](https://proud-thief-ae8.notion.site/API-b3ba853e06f24fb69470efa80b5a228e?pvs=4)**
+<br><br><br>
+``` 예시 화면 ```
+>
+![image](https://github.com/ZB-Keyword/.github/assets/56953934/4e870766-74a8-412d-885e-ed4060094669)
+![image](https://github.com/ZB-Keyword/.github/assets/56953934/6110883a-8586-48e9-b65b-5f2be59e2893)
 
 
