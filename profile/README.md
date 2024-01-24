@@ -107,6 +107,9 @@
 
 ### 📃 ERD
 
+![KeyWord - 최종 (2)](https://github.com/ZB-Keyword/.github/assets/130157565/73ab789e-9492-4b7f-9809-4b5efd22dfb9)
+
+
 ---
 
 ### 🔍 Api 명세서
