@@ -44,6 +44,36 @@
 
 ### Back-End
 
+<div align=left>
+  <img src="https://img.shields.io/badge/java-512BD4?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+</div>
+
+<div align=left>
+  <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/jsonwebtokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+  <img src="https://img.shields.io/badge/oauth2-FD3456?style=for-the-badge&logo=oauth2&logoColor=white">
+</div>
+
+<div align=left>
+  <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/redis-DD052B?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+  <img src="https://img.shields.io/badge/springjpa-6DB33F?style=for-the-badge&logo=springjpa&logoColor=white">
+  <img src="https://img.shields.io/badge/stmp-DD1100?style=for-the-badge&logo=stmp&logoColor=white">
+</div>
+
+<div align=left>
+  <img src="https://img.shields.io/badge/assertJ-006D5C?style=for-the-badge&logo=assertJ&logoColor=white">
+  <img src="https://img.shields.io/badge/mockito-006D5C?style=for-the-badge&logo=mockito&logoColor=white">
+</div>
+<div align=left>
+  <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+  <img src="https://img.shields.io/badge/postman-FF3E00?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/springRestDocs-00B67A?style=for-the-badge&logo=springRestDocs&logoColor=white">
+</div>
 
 ---
 
