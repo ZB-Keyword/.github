@@ -9,7 +9,6 @@
 
 약속을 잡을 땐 가입된 사람들과 친구를 맺고, 일정을 만들고, 채팅을 할 수 있습니다.
 
-**[keyword 더 자세히 알고 싶다면 클릭!](https://keyword-front-end.vercel.app/auth)**
 
 
 ---
